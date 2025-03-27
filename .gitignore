@@ -1,3 +1,4 @@
 **.ipynb_checkpoints
 .DS_Store
-clase_2/jupyter_notebooks/fasttext.pklj3syuomv.part
+*.part
+*.pkl
