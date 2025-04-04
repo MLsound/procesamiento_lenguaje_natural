@@ -4,4 +4,4 @@
 *.pkl
 /datasets/songs_dataset
 clase_3/ejercicios/my_model.keras
-clase_3/ejercicios/Desafio_3.ipynb
+scripts/__pycache__/torch_helpers.cpython-312.pyc
